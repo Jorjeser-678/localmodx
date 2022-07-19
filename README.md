@@ -8,12 +8,12 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://localmodx.herokuapp.com/"><img align="center" src="https://i.imgur.com/MCO4rvC.jpeg" alt="Scan QR" height="112" width="112" /></a>
+<a href="https://localmodx-6.herokuapp.com/"><img align="center" src="https://i.imgur.com/MCO4rvC.jpeg" alt="Scan QR" height="112" width="112" /></a>
 <br>
 <div>
 <br>
   
-<a href="https://localmodx/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/Rc7WXah.jpeg" alt="Deploy bot" height="70" width="230" /></a>
+<a href="https://localmodx-6/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/Rc7WXah.jpeg" alt="Deploy bot" height="70" width="230" /></a>
   <div>
 <br>
 <a href="https://github.com/jorjeser-678/localmodx/fork"><img align="center" src="https://i.imgur.com/Ikia44y.jpeg" alt="Fork and deploy" height="70" width="230" /></a>
