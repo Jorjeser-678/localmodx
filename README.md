@@ -1,6 +1,6 @@
 # _localmodx-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/baileys)_
-#### _Looking for non multi device version? Get it [here](https://github.com/jorjeser-678/localmodx-legacy)_
+## _Multi device whatsapp bot created with [@abhizpkd/local-bot](https://github.com/abhizpkd/local-bot)_
+#### _Looking for non multi device version? Get it [here](https://github.com/abhizpkd/local-bot-legacy)_
 <!---## Readme first before using 👇❌
 ### (Due to the removal of heroku-github integration, this project is currently unable to deploy to heroku servers. As of this, existing users also couldn't update their bots.)
 Visit [Heroku status site](https://status.heroku.com) for more details
