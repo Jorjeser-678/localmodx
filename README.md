@@ -8,7 +8,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://localmodx-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/MCO4rvC.jpeg" alt="Scan QR" height="112" width="112" /></a>
+<a href="https://localmodx.herokuapp.com/"><img align="center" src="https://i.imgur.com/MCO4rvC.jpeg" alt="Scan QR" height="112" width="112" /></a>
 <br>
 <div>
 <br>
