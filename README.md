@@ -16,7 +16,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <a href="https://localmodx/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/Rc7WXah.jpeg" alt="Deploy bot" height="70" width="230" /></a>
   <div>
 <br>
-<a href="https://github.com/localmodx/whatsapp-bot/fork"><img align="center" src="https://i.imgur.com/Ikia44y.jpeg" alt="Fork and deploy" height="70" width="230" /></a>
+<a href="https://github.com/jorjeser-678/localmodx/fork"><img align="center" src="https://i.imgur.com/Ikia44y.jpeg" alt="Fork and deploy" height="70" width="230" /></a>
 <div>
   <br>
 
