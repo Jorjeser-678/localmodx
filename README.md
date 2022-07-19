@@ -16,10 +16,10 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <a href="https://raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/Rc7WXah.jpeg" alt="Deploy bot" height="70" width="230" /></a>
   <div>
 <br>
-<a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="https://i.imgur.com/Ikia44y.jpeg" alt="Fork and deploy" height="70" width="230" /></a>
+<a href="https://github.com/abhizpkd/local-bot/fork"><img align="center" src="https://i.imgur.com/Ikia44y.jpeg" alt="Fork and deploy" height="70" width="230" /></a>
 <div>
   <br>
 
-## _[How to use? Documentation](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+## _[How to use? Documentation](https://github.com/abhizpkd/local-bot-md/wiki/Raganork-Documentation)_
 
 ## You can also use as a BGM bot. [Click here](https://github.com/souravkl11/raganork-md/wiki/Docs#how-to-set-up-bgm-bot)
