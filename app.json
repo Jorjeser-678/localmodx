@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/jorjeser-678/localmodx",
+	"repository": "https://github.com/abhizpkd/local-bot",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
