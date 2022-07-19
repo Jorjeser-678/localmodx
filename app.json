@@ -71,7 +71,7 @@
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
-            "value":"*ʜᴀɪ ɢᴜyꜱ....ɪᴛꜱ ᴍᴇ 🎀ʟᴏᴄᴀʟ ᴍᴏᴅx🎀*"
+            "value":"*_ʜᴀɪ ɢᴜyꜱ....ɪᴛꜱ ᴍᴇ 🎀ʟᴏᴄᴀʟ ᴍᴏᴅx🎀_*"
         },
        "SESSION": {
             "description": "Your MD session",
