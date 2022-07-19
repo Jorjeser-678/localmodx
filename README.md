@@ -1,4 +1,4 @@
-# _Raganork-multi-device_
+# _localmodx-multi-device_
 ## _Multi device whatsapp bot created with [@jorjeser-678/localmodx](https://github.com/jorjeser-678/localmodx)_
 #### _Looking for non multi device version? Get it [here](https://github.com/jorjeser-678/localmodx-legacy)_
 <!---## Readme first before using 👇❌
